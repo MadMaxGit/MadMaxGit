@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @ManjunathPuttaswamy 🇮🇳:
-- Highly skilled, results-oriented, and proactive Continuous Delivery Engineer with a strong academic background (Master’s Degree in Digital Forensics) and a special focus on application and infrastructure operations automation
-- Highly proficient in supporting the creation, deployment, and operations of different cloud/on-prem environments with comprehensive software (Terraform, Ansible)
-- Implement Continuous Integration, continuous delivery, and deployment using various CI/CD Tools like Jenkins, AWS CodeBuild and CodeDeploy, GitHub actions, Argo CD
-- Proven track record of successful collaboration within software engineering, quality assurance teams to deploy and operate solutions, help to automate and streamline operations and processes, and build and maintain tools for deployment, monitoring, and operations
-- Results-driven with strong problem solving and troubleshooting skills
+- Highly skilled, results-oriented, and proactive Continuous Delivery Engineer with a strong academic background (Master’s Degree in Network Forensics) and a special focus on application and infrastructure operations automation
+- Highly proficient in supporting the creation, deployment and operations of different cloud/on-prem environments with comprehensive software (Terraform, Ansible)
+- Implement Continuous Integration, continuous delivery and deployment using various CI/CD Tools like Jenkins, AWS CodeBuild and CodeDeploy, GitHub actions, Argo CD
+- Proven track record of successful collaboration within software engineering and quality assurance teams to deploy and operate solutions, help to automate and streamline operations and processes and build and maintain tools for deployment, monitoring and operations
+- Results-driven with strong problem-solving and troubleshooting skills
 
 
 ## 🔧 Technologies & Tools
